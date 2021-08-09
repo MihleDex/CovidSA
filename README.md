@@ -3,3 +3,7 @@ CovidSA is an app used to display the numbers relating to covid for South Africa
 >Download APK: https://github.com/MihleDex/CovidSA/raw/main/covidsa.apk
 
 ## Preview
+### ScreenShot 1
+![Screenshot](2.png)
+### ScreenShot 2
+![Screenshot](2.png)
