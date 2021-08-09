@@ -4,6 +4,6 @@ CovidSA is an app used to display the numbers relating to covid for South Africa
 
 ## Preview
 ### ScreenShot 1
-![Screenshot](screenshots/2.png)
+![Screenshot](screenshots/1.png)
 ### ScreenShot 2
 ![Screenshot](screenshots/2.png)
